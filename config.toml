@@ -1,2 +1,3 @@
 theme = "beautifulhugo"
 baseURL = "https://tldr.jsv.me/"
+title = "== TL;DR =="
